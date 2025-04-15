@@ -1,0 +1,1501 @@
+06.01.2019	laptop cheap	1.13
+22.10.2006	glasses cheap	1.25
+19.09.2012	glasses good looking	1.85
+03.07.2005	good looking sofa	2.87
+20.05.2016	glasses good looking	3.13
+28.03.2008	glasses best	3.39
+04.11.2017	saree good looking	4.10
+03.01.2004	best vaccum cleanear	4.24
+16.01.2007	saree best	5.28
+09.02.2015	good looking vaccum cleanear	5.82
+09.05.2018	vaccum cleanear best	7.80
+26.10.2009	glasses cheap	7.81
+26.01.2014	best wallet	8.56
+22.12.2013	vaccum cleanear best	9.17
+13.05.2011	bed best	9.34
+15.02.2010	bed best	9.34
+24.06.2019	most recommded smartwatch	9.88
+23.01.2013	best saree	10.99
+07.03.2001	glasses cheap	11.20
+21.07.2005	laptop cheap	11.29
+15.06.2012	smartwatch best	11.62
+03.03.2013	bed good looking	11.98
+21.08.2007	most recommded saree	14.17
+12.09.2010	glasses good looking	16.29
+14.11.2019	best wallet	20.79
+22.03.2021	laptop good looking	20.80
+14.03.2004	laptop most recommded	21.54
+01.04.2011	good looking wallet	21.78
+02.08.2002	best wallet	23.38
+04.09.2017	best vaccum cleanear	23.53
+25.10.2005	most recommded glasses	25.14
+13.06.2005	bed good looking	25.36
+04.09.2014	good looking glasses	28.45
+13.07.2013	best wallet	28.45
+04.08.2005	cheap bed	28.98
+22.12.2004	best saree	29.34
+11.05.2001	cheap saree	29.75
+15.06.2011	saree cheap	30.68
+11.10.2007	best saree	31.16
+03.04.2019	laptop cheap	31.63
+10.03.2000	glasses cheap	33.35
+19.01.2014	most recommded vaccum cleanear	33.95
+04.08.2004	good looking smartwatch	35.93
+12.07.2005	best glasses	36.33
+03.06.2017	smartwatch best	38.37
+22.07.2007	best vaccum cleanear	38.43
+09.01.2001	glasses best	39.16
+17.01.2011	vaccum cleanear good looking	40.54
+13.03.2016	most recommded laptop	40.93
+07.09.2012	wallet best	42.48
+07.06.2004	good looking bed	44.72
+16.10.2018	most recommded sofa	46.80
+10.12.2008	smartwatch good looking	47.26
+08.09.2016	bed cheap	47.30
+22.02.2016	laptop best	47.31
+25.10.2004	wallet best	50.16
+14.10.2002	smartwatch best	50.56
+22.01.2017	good looking sofa	50.91
+07.02.2014	sofa good looking	51.39
+22.02.2019	saree cheap	51.85
+18.08.2006	smartwatch most recommded	53.42
+26.08.2010	most recommded sofa	55.70
+02.02.2018	most recommded wallet	57.11
+08.09.2018	most recommded laptop	57.84
+08.09.2001	best vaccum cleanear	62.47
+28.12.2004	good looking bed	63.27
+10.07.2014	glasses good looking	65.43
+17.02.2004	wallet most recommded	65.56
+17.12.2006	good looking laptop	66.28
+16.06.2019	saree good looking	66.31
+12.09.2000	vaccum cleanear most recommded	66.39
+05.03.2009	good looking bed	66.87
+08.08.2020	most recommded saree	66.94
+19.06.2020	most recommded glasses	67.45
+17.07.2019	best laptop	68.70
+06.01.2010	good looking sofa	69.26
+02.03.2013	saree most recommded	71.49
+24.07.2004	wallet good looking	72.22
+14.08.2000	glasses most recommded	72.61
+02.03.2018	cheap vaccum cleanear	72.92
+04.03.2011	good looking bed	74.92
+11.07.2018	most recommded vaccum cleanear	76.29
+28.08.2001	bed cheap	76.53
+18.08.2020	bed most recommded	77.63
+26.01.2021	good looking laptop	77.73
+06.09.2011	cheap sofa	77.98
+27.05.2002	most recommded smartwatch	78.23
+05.08.2000	laptop most recommded	78.48
+15.09.2000	wallet cheap	81.26
+05.11.2017	cheap saree	82.68
+19.09.2021	saree best	83.16
+01.12.2018	sofa best	83.23
+07.09.2005	glasses best	84.54
+16.03.2005	saree best	84.71
+02.08.2000	saree good looking	85.41
+21.12.2020	laptop good looking	86.23
+14.02.2013	saree good looking	86.80
+02.04.2018	saree most recommded	87.15
+27.09.2004	saree good looking	87.36
+19.10.2001	good looking vaccum cleanear	88.66
+25.06.2013	good looking glasses	89.36
+01.05.2017	most recommded vaccum cleanear	89.50
+12.05.2010	good looking smartwatch	91.10
+04.03.2016	laptop good looking	91.41
+15.09.2000	laptop good looking	92.33
+11.07.2014	saree best	92.82
+20.04.2001	best glasses	94.21
+11.03.2006	vaccum cleanear best	94.39
+17.12.2013	best saree	94.77
+19.10.2019	most recommded glasses	95.27
+06.08.2020	bed good looking	95.69
+21.12.2018	wallet good looking	96.24
+08.06.2009	cheap vaccum cleanear	96.49
+02.07.2019	glasses good looking	96.50
+24.03.2009	most recommded saree	96.82
+24.12.2007	saree cheap	97.38
+03.05.2012	good looking glasses	97.86
+15.11.2016	wallet good looking	98.66
+27.08.2011	glasses cheap	99.66
+11.03.2020	sofa most recommded	100.77
+13.01.2007	good looking vaccum cleanear	100.94
+14.03.2005	good looking vaccum cleanear	101.13
+09.11.2013	laptop cheap	101.16
+06.01.2021	best laptop	101.86
+03.01.2015	vaccum cleanear good looking	103.72
+15.04.2012	best smartwatch	103.75
+03.07.2018	cheap vaccum cleanear	104.52
+14.05.2009	good looking smartwatch	106.31
+17.01.2011	bed most recommded	107.14
+26.05.2006	best saree	107.55
+06.04.2003	glasses best	108.27
+02.08.2005	good looking smartwatch	109.11
+28.07.2017	smartwatch cheap	109.18
+09.12.2000	cheap laptop	109.22
+25.03.2009	vaccum cleanear cheap	110.29
+15.12.2019	most recommded glasses	110.39
+28.12.2016	vaccum cleanear cheap	110.54
+13.06.2012	cheap saree	112.17
+25.05.2009	best glasses	112.85
+26.04.2012	smartwatch cheap	114.70
+02.10.2004	smartwatch most recommded	114.84
+24.08.2017	vaccum cleanear best	114.88
+20.07.2006	most recommded laptop	116.50
+15.05.2008	vaccum cleanear good looking	116.55
+09.06.2004	saree cheap	117.45
+28.12.2008	cheap sofa	117.99
+09.02.2007	sofa cheap	118.46
+21.05.2013	good looking glasses	119.45
+09.05.2020	vaccum cleanear best	120.86
+18.01.2004	sofa most recommded	124.79
+05.05.2020	laptop cheap	126.36
+11.12.2020	bed good looking	128.23
+13.12.2005	saree most recommded	128.56
+11.10.2007	cheap wallet	128.64
+14.09.2001	glasses cheap	129.50
+04.08.2010	saree most recommded	131.34
+09.02.2006	laptop good looking	132.74
+09.08.2004	sofa most recommded	132.84
+03.07.2016	saree most recommded	133.32
+07.08.2013	good looking sofa	134.27
+16.09.2006	saree best	134.90
+05.10.2010	most recommded smartwatch	135.98
+14.01.2015	wallet cheap	137.70
+11.09.2012	good looking wallet	138.34
+26.01.2010	most recommded bed	138.40
+10.11.2012	saree cheap	140.99
+12.06.2005	cheap wallet	141.10
+17.01.2020	good looking laptop	141.16
+11.10.2009	best laptop	141.70
+10.08.2006	best saree	142.46
+03.08.2006	cheap vaccum cleanear	144.79
+17.12.2017	good looking glasses	144.90
+26.08.2004	most recommded glasses	146.90
+24.05.2011	laptop good looking	147.15
+27.09.2006	glasses good looking	149.71
+22.05.2001	good looking smartwatch	149.72
+16.08.2003	sofa best	150.19
+22.12.2002	bed cheap	151.38
+18.03.2003	good looking saree	152.33
+10.02.2000	vaccum cleanear cheap	152.65
+02.11.2004	glasses best	153.10
+10.03.2000	cheap bed	153.70
+17.05.2013	cheap glasses	154.30
+02.08.2017	wallet good looking	154.36
+21.01.2014	sofa most recommded	154.47
+05.09.2002	most recommded smartwatch	154.83
+25.07.2015	cheap bed	154.94
+22.06.2005	cheap vaccum cleanear	155.56
+11.09.2010	most recommded smartwatch	156.72
+03.11.2012	bed best	156.84
+11.02.2010	cheap saree	157.35
+11.12.2008	cheap glasses	157.89
+01.10.2000	best saree	157.91
+08.10.2014	smartwatch cheap	158.24
+04.11.2004	good looking vaccum cleanear	158.37
+11.02.2014	good looking saree	158.80
+04.04.2011	most recommded wallet	158.96
+06.01.2004	cheap wallet	159.37
+05.10.2018	saree cheap	159.81
+11.11.2011	best wallet	159.94
+25.12.2014	cheap wallet	160.15
+01.05.2017	bed most recommded	160.33
+01.07.2004	laptop good looking	160.70
+22.08.2012	best wallet	160.78
+20.03.2014	sofa good looking	161.11
+25.12.2018	saree best	161.83
+02.11.2001	wallet most recommded	163.84
+15.07.2018	saree cheap	164.52
+05.10.2005	most recommded sofa	164.89
+04.11.2015	cheap wallet	165.84
+11.11.2019	glasses cheap	166.76
+08.06.2016	sofa most recommded	168.41
+01.01.2010	best wallet	168.69
+21.07.2008	saree most recommded	169.19
+18.05.2015	most recommded laptop	170.54
+20.09.2019	bed most recommded	170.56
+20.07.2004	glasses cheap	172.25
+07.10.2014	most recommded glasses	172.45
+20.06.2003	most recommded bed	172.66
+10.04.2011	best sofa	173.19
+22.02.2018	good looking glasses	174.10
+13.12.2016	sofa cheap	176.11
+02.01.2020	smartwatch cheap	177.26
+01.06.2018	best bed	178.20
+08.11.2007	cheap vaccum cleanear	178.55
+06.11.2009	good looking laptop	178.81
+05.08.2018	saree best	178.98
+22.08.2001	good looking vaccum cleanear	179.51
+25.12.2012	best glasses	179.68
+01.04.2000	most recommded smartwatch	180.14
+11.06.2010	best wallet	180.99
+17.05.2016	laptop most recommded	181.59
+06.12.2007	best glasses	182.73
+26.07.2021	most recommded sofa	182.79
+01.01.2001	bed best	184.64
+06.11.2005	cheap wallet	185.21
+08.04.2008	laptop most recommded	187.19
+13.12.2016	best smartwatch	187.63
+26.03.2006	wallet most recommded	188.33
+04.01.2002	vaccum cleanear cheap	188.55
+07.06.2017	most recommded glasses	189.64
+02.11.2013	best sofa	190.11
+04.09.2003	sofa most recommded	190.88
+21.09.2004	good looking laptop	190.90
+06.04.2006	sofa cheap	191.15
+01.02.2005	smartwatch best	192.82
+13.01.2009	good looking saree	193.76
+26.12.2002	good looking glasses	194.38
+22.10.2014	cheap smartwatch	194.77
+06.10.2014	most recommded sofa	195.75
+26.02.2006	cheap glasses	196.10
+07.12.2020	cheap sofa	196.40
+08.12.2004	laptop cheap	197.85
+05.05.2009	most recommded vaccum cleanear	201.97
+28.01.2001	most recommded sofa	201.98
+05.02.2000	good looking laptop	202.12
+18.03.2005	bed most recommded	202.52
+04.10.2002	laptop good looking	203.38
+07.08.2007	most recommded wallet	204.45
+22.07.2014	wallet cheap	204.70
+09.08.2005	bed cheap	204.89
+06.12.2007	best wallet	205.25
+27.10.2007	best wallet	206.10
+02.11.2017	vaccum cleanear most recommded	207.69
+04.12.2005	best glasses	208.10
+23.12.2017	good looking glasses	208.40
+04.07.2018	saree best	209.18
+23.05.2005	sofa most recommded	211.13
+10.01.2008	wallet good looking	212.27
+24.06.2017	wallet most recommded	213.23
+25.01.2001	best wallet	213.63
+12.12.2011	smartwatch cheap	214.34
+26.10.2010	good looking bed	214.42
+26.07.2021	wallet cheap	214.44
+26.05.2006	sofa best	214.69
+03.12.2005	bed cheap	214.80
+26.12.2014	smartwatch most recommded	214.91
+09.02.2006	most recommded glasses	214.95
+05.05.2000	most recommded vaccum cleanear	215.82
+05.10.2009	wallet good looking	216.17
+03.04.2006	most recommded smartwatch	216.54
+10.10.2012	best glasses	216.61
+12.01.2013	cheap smartwatch	216.96
+28.12.2015	best saree	217.64
+12.03.2001	cheap sofa	218.26
+16.03.2021	good looking glasses	218.75
+04.06.2002	laptop good looking	219.16
+09.10.2006	vaccum cleanear most recommded	219.33
+16.10.2004	saree most recommded	221.13
+16.01.2002	glasses best	221.62
+11.05.2001	sofa good looking	222.32
+20.08.2017	best smartwatch	222.51
+16.10.2014	smartwatch best	222.83
+21.07.2011	cheap vaccum cleanear	222.85
+02.12.2001	bed cheap	222.91
+07.09.2014	glasses best	222.95
+19.05.2001	cheap sofa	223.27
+11.10.2019	saree cheap	223.94
+03.10.2021	wallet cheap	224.10
+07.03.2019	smartwatch best	224.24
+04.07.2021	good looking smartwatch	224.77
+10.05.2000	best smartwatch	224.79
+09.07.2018	most recommded sofa	226.23
+25.05.2006	most recommded sofa	226.39
+10.06.2001	laptop most recommded	226.57
+09.10.2002	laptop most recommded	226.86
+05.08.2016	bed best	227.10
+25.09.2004	saree cheap	229.52
+15.08.2000	wallet good looking	231.17
+13.10.2006	cheap laptop	231.46
+11.06.2017	saree most recommded	231.90
+05.03.2012	cheap glasses	232.47
+22.04.2021	most recommded glasses	233.26
+27.03.2009	good looking vaccum cleanear	234.12
+27.02.2002	most recommded smartwatch	235.34
+12.12.2005	cheap bed	235.53
+27.03.2013	best laptop	236.21
+13.02.2000	bed best	236.90
+08.02.2006	best vaccum cleanear	237.30
+20.03.2001	good looking wallet	237.77
+11.11.2009	best wallet	238.16
+02.01.2018	cheap sofa	238.63
+17.07.2007	sofa most recommded	238.78
+03.08.2019	wallet good looking	239.64
+23.11.2008	glasses most recommded	240.16
+09.12.2006	good looking vaccum cleanear	241.93
+25.03.2011	best smartwatch	242.26
+22.05.2000	cheap wallet	243.62
+28.01.2006	good looking laptop	245.64
+23.09.2019	bed cheap	245.67
+20.01.2001	best glasses	245.82
+10.01.2021	laptop cheap	246.32
+10.09.2003	best laptop	247.64
+27.06.2005	cheap sofa	247.64
+01.02.2007	most recommded laptop	247.80
+23.04.2018	saree cheap	248.10
+08.12.2019	wallet best	249.14
+02.08.2001	glasses best	250.36
+18.01.2006	wallet best	251.71
+27.05.2019	most recommded bed	251.85
+09.01.2007	cheap vaccum cleanear	253.29
+17.06.2008	best wallet	254.22
+20.05.2008	saree good looking	254.51
+24.04.2006	sofa cheap	254.63
+10.05.2010	saree cheap	255.12
+18.04.2003	best smartwatch	255.29
+19.05.2007	bed cheap	255.53
+20.06.2007	good looking saree	256.91
+23.08.2002	saree good looking	258.12
+06.05.2020	smartwatch cheap	258.61
+03.08.2015	most recommded wallet	260.74
+14.10.2008	good looking glasses	264.23
+14.11.2016	cheap wallet	264.88
+17.12.2006	best glasses	265.25
+26.01.2012	saree good looking	265.84
+01.09.2005	best bed	266.30
+12.03.2019	smartwatch best	266.45
+07.05.2004	smartwatch most recommded	266.60
+13.09.2019	cheap smartwatch	267.34
+03.04.2017	most recommded smartwatch	267.68
+16.03.2015	sofa most recommded	267.81
+18.04.2006	bed good looking	268.17
+07.06.2010	cheap laptop	268.35
+03.09.2011	best vaccum cleanear	268.60
+12.03.2002	sofa cheap	268.85
+02.11.2012	cheap vaccum cleanear	269.19
+20.09.2015	laptop best	269.82
+13.04.2003	best laptop	271.22
+25.07.2015	smartwatch most recommded	271.42
+01.01.2007	saree cheap	272.80
+20.03.2019	sofa best	273.35
+06.05.2015	cheap wallet	273.43
+19.07.2012	cheap laptop	273.55
+27.08.2018	most recommded vaccum cleanear	273.63
+18.02.2020	good looking vaccum cleanear	275.22
+10.01.2006	wallet most recommded	277.13
+14.11.2014	wallet good looking	277.61
+08.11.2000	best smartwatch	278.23
+02.12.2016	glasses most recommded	278.24
+03.07.2002	wallet good looking	278.63
+11.11.2003	glasses good looking	278.69
+13.06.2014	best sofa	279.24
+01.12.2004	best laptop	279.46
+24.05.2013	smartwatch cheap	279.54
+17.09.2003	wallet most recommded	280.25
+16.01.2010	laptop cheap	280.45
+25.10.2010	wallet best	281.68
+13.04.2002	most recommded vaccum cleanear	281.93
+23.08.2002	most recommded vaccum cleanear	282.38
+08.07.2016	most recommded laptop	283.25
+09.05.2005	most recommded sofa	284.73
+19.10.2016	vaccum cleanear most recommded	285.56
+24.03.2014	cheap laptop	285.96
+03.08.2012	cheap glasses	286.85
+23.08.2004	good looking laptop	289.22
+04.07.2013	wallet cheap	289.84
+02.04.2011	vaccum cleanear best	290.35
+19.11.2016	saree most recommded	290.37
+08.06.2013	best saree	290.77
+23.08.2004	laptop good looking	290.90
+22.09.2001	wallet good looking	291.42
+26.05.2011	best sofa	291.67
+28.06.2007	wallet most recommded	291.83
+26.12.2014	bed best	291.97
+26.10.2019	wallet best	293.48
+11.10.2016	best laptop	295.27
+26.12.2007	good looking saree	295.71
+04.02.2016	best glasses	297.74
+18.08.2010	wallet most recommded	298.27
+26.01.2016	vaccum cleanear most recommded	298.64
+01.11.2016	cheap smartwatch	299.93
+09.02.2013	sofa cheap	300.34
+22.09.2008	good looking bed	301.84
+22.09.2002	bed most recommded	301.85
+12.07.2020	smartwatch good looking	302.85
+02.11.2014	glasses most recommded	303.68
+12.01.2005	bed most recommded	303.80
+12.05.2005	good looking glasses	304.25
+04.10.2014	most recommded bed	304.40
+03.06.2008	cheap wallet	305.24
+18.09.2005	sofa most recommded	305.49
+04.03.2008	vaccum cleanear most recommded	307.64
+03.03.2008	bed best	309.16
+04.03.2008	glasses cheap	309.51
+21.06.2020	sofa most recommded	309.66
+24.06.2010	glasses cheap	309.98
+11.06.2006	smartwatch most recommded	310.49
+19.01.2015	good looking wallet	311.19
+10.04.2009	wallet good looking	311.33
+25.08.2007	most recommded vaccum cleanear	311.47
+23.11.2013	laptop cheap	312.97
+26.11.2002	most recommded laptop	315.31
+05.07.2013	most recommded wallet	315.52
+18.10.2015	good looking laptop	316.25
+11.03.2020	laptop good looking	316.32
+06.08.2001	most recommded bed	318.18
+26.04.2014	saree most recommded	318.78
+23.05.2021	best bed	319.27
+02.11.2011	cheap sofa	319.69
+21.06.2014	cheap saree	319.82
+07.09.2009	cheap vaccum cleanear	321.58
+23.07.2003	good looking saree	323.45
+20.12.2020	glasses best	324.34
+07.12.2001	most recommded wallet	324.34
+05.08.2007	glasses best	324.72
+13.03.2013	best sofa	324.76
+22.05.2012	wallet cheap	324.92
+07.08.2017	most recommded glasses	325.68
+11.10.2005	sofa good looking	326.77
+01.04.2019	glasses cheap	327.93
+24.06.2003	best saree	328.64
+17.05.2014	sofa cheap	328.75
+16.05.2017	most recommded sofa	329.87
+27.12.2010	good looking laptop	330.49
+20.08.2000	best wallet	331.16
+27.12.2014	most recommded bed	331.55
+11.07.2018	smartwatch good looking	332.18
+04.12.2016	best bed	333.91
+10.01.2018	cheap saree	334.26
+26.05.2003	wallet best	334.65
+18.03.2021	cheap bed	335.49
+05.12.2001	most recommded bed	337.28
+20.01.2001	most recommded glasses	337.48
+24.06.2008	best sofa	339.29
+28.08.2004	good looking sofa	341.45
+19.10.2018	laptop best	341.71
+22.06.2011	sofa most recommded	341.84
+11.10.2000	sofa good looking	342.63
+17.07.2003	best sofa	342.85
+11.03.2016	saree best	343.24
+21.04.2019	smartwatch good looking	343.55
+17.09.2012	good looking bed	347.36
+07.01.2020	best saree	347.57
+21.10.2015	best vaccum cleanear	347.78
+26.03.2003	best laptop	348.32
+22.06.2007	best laptop	349.63
+05.07.2016	smartwatch best	349.68
+21.12.2003	most recommded glasses	350.26
+14.06.2020	vaccum cleanear most recommded	350.60
+13.11.2016	good looking laptop	351.95
+16.12.2021	most recommded laptop	352.48
+19.08.2005	most recommded sofa	353.28
+22.02.2008	most recommded bed	353.83
+15.09.2017	cheap vaccum cleanear	354.30
+17.01.2015	good looking smartwatch	354.42
+26.08.2007	good looking smartwatch	355.89
+23.12.2002	glasses good looking	357.47
+23.12.2002	sofa most recommded	357.59
+11.12.2020	bed good looking	357.65
+03.08.2012	good looking sofa	357.66
+25.11.2013	bed cheap	357.97
+21.03.2010	glasses cheap	358.12
+28.08.2014	vaccum cleanear best	359.60
+11.06.2011	wallet best	359.77
+15.07.2021	wallet most recommded	360.53
+26.03.2011	most recommded vaccum cleanear	361.54
+19.11.2007	wallet good looking	361.66
+27.12.2016	best bed	361.97
+04.08.2020	cheap laptop	362.91
+12.07.2009	smartwatch good looking	364.65
+09.10.2004	good looking vaccum cleanear	364.95
+14.08.2020	laptop best	365.15
+01.11.2001	good looking bed	366.95
+10.12.2017	cheap smartwatch	367.39
+27.04.2007	cheap laptop	367.56
+18.05.2003	cheap sofa	368.56
+10.12.2020	most recommded laptop	368.79
+05.07.2020	good looking sofa	369.28
+15.05.2012	most recommded vaccum cleanear	369.81
+22.03.2019	most recommded vaccum cleanear	369.86
+20.10.2009	saree best	371.37
+01.12.2013	laptop cheap	371.87
+20.08.2016	vaccum cleanear cheap	371.88
+25.04.2010	good looking wallet	372.83
+10.09.2010	glasses most recommded	373.52
+09.02.2021	cheap laptop	373.74
+28.06.2002	laptop cheap	374.83
+10.06.2003	smartwatch cheap	374.95
+20.12.2019	cheap sofa	375.21
+08.09.2016	saree most recommded	375.63
+25.04.2002	best sofa	375.79
+18.07.2017	wallet cheap	376.83
+15.07.2007	most recommded bed	379.98
+02.11.2011	cheap bed	380.53
+27.08.2015	bed best	380.89
+11.05.2017	bed best	381.32
+09.01.2010	glasses cheap	382.66
+18.10.2005	most recommded vaccum cleanear	383.23
+28.08.2008	most recommded bed	384.45
+08.05.2018	most recommded sofa	385.30
+09.06.2014	best bed	385.81
+21.02.2013	smartwatch best	386.28
+19.10.2007	saree best	386.61
+15.03.2020	saree best	387.70
+12.08.2014	good looking smartwatch	387.88
+01.10.2003	best saree	389.80
+07.06.2002	good looking bed	389.93
+25.03.2009	saree cheap	390.77
+23.02.2021	saree best	391.28
+18.06.2000	good looking glasses	391.32
+17.11.2005	good looking wallet	392.54
+04.01.2016	wallet best	393.26
+04.01.2012	bed best	393.66
+14.01.2015	glasses cheap	393.88
+11.03.2012	wallet cheap	395.55
+24.04.2012	cheap glasses	396.25
+12.01.2008	glasses best	396.38
+12.09.2006	saree cheap	396.51
+05.12.2009	vaccum cleanear most recommded	397.51
+26.05.2007	cheap vaccum cleanear	397.73
+14.08.2008	sofa best	397.96
+12.07.2004	saree cheap	399.72
+02.07.2008	sofa cheap	401.17
+13.11.2020	most recommded sofa	401.78
+08.11.2001	best vaccum cleanear	403.15
+12.07.2003	best laptop	403.42
+26.02.2021	cheap laptop	404.51
+09.05.2003	glasses best	405.50
+19.09.2019	bed cheap	405.66
+07.11.2001	cheap glasses	406.50
+27.11.2017	good looking glasses	408.22
+06.11.2006	good looking wallet	408.76
+17.10.2012	most recommded bed	409.15
+25.10.2012	most recommded smartwatch	409.27
+20.05.2008	sofa cheap	412.32
+06.06.2015	best vaccum cleanear	412.66
+23.04.2008	smartwatch cheap	413.98
+04.02.2017	good looking glasses	414.12
+22.04.2019	good looking sofa	416.34
+24.03.2015	sofa most recommded	416.45
+13.11.2018	glasses good looking	416.83
+05.12.2001	most recommded glasses	418.60
+05.07.2012	best saree	418.62
+19.11.2005	saree cheap	420.49
+14.09.2021	best glasses	421.76
+03.05.2007	most recommded bed	422.27
+09.04.2005	glasses cheap	422.75
+12.03.2000	saree cheap	422.90
+04.04.2014	bed good looking	423.47
+09.04.2018	best sofa	424.18
+18.08.2021	smartwatch best	424.54
+12.04.2006	good looking glasses	425.29
+18.02.2008	sofa good looking	426.41
+10.05.2014	most recommded laptop	427.35
+16.07.2005	good looking vaccum cleanear	427.66
+19.11.2014	good looking bed	427.71
+18.06.2009	cheap glasses	428.68
+02.05.2007	vaccum cleanear most recommded	428.70
+09.03.2001	most recommded saree	428.71
+12.09.2008	cheap glasses	429.48
+20.05.2015	wallet most recommded	429.97
+11.11.2020	vaccum cleanear cheap	430.31
+06.06.2000	vaccum cleanear good looking	430.90
+09.01.2014	best bed	432.68
+21.12.2007	vaccum cleanear most recommded	433.78
+02.01.2011	cheap saree	434.10
+10.10.2013	smartwatch cheap	434.11
+15.07.2001	smartwatch good looking	434.17
+05.10.2000	laptop best	434.31
+24.05.2006	smartwatch good looking	434.38
+20.02.2016	cheap laptop	435.49
+15.10.2007	most recommded glasses	436.65
+06.07.2012	most recommded wallet	438.16
+16.09.2019	vaccum cleanear good looking	438.20
+24.02.2002	glasses most recommded	438.65
+17.06.2020	cheap glasses	441.22
+05.08.2013	saree most recommded	441.92
+07.10.2021	cheap bed	442.78
+10.04.2014	cheap bed	444.10
+28.06.2006	bed cheap	444.12
+10.08.2004	most recommded vaccum cleanear	444.98
+11.01.2002	laptop cheap	445.15
+01.03.2007	bed good looking	446.24
+22.05.2010	good looking bed	447.25
+23.05.2016	sofa cheap	447.44
+27.09.2007	cheap vaccum cleanear	447.99
+27.05.2015	vaccum cleanear best	448.15
+13.10.2018	laptop good looking	448.69
+24.06.2018	most recommded vaccum cleanear	448.93
+11.05.2006	best sofa	450.62
+10.08.2018	smartwatch most recommded	451.11
+06.11.2006	good looking sofa	451.17
+14.05.2003	bed best	451.24
+01.10.2009	best sofa	451.92
+28.03.2020	cheap laptop	451.94
+14.10.2001	saree best	452.62
+11.03.2003	vaccum cleanear good looking	454.25
+16.06.2017	good looking vaccum cleanear	454.38
+04.08.2009	smartwatch cheap	454.38
+04.04.2008	good looking smartwatch	455.19
+03.11.2019	most recommded smartwatch	455.69
+26.10.2007	bed cheap	455.95
+13.07.2020	laptop best	456.63
+14.03.2018	bed cheap	456.83
+04.01.2016	bed best	457.88
+06.03.2004	good looking laptop	457.88
+22.12.2016	wallet cheap	458.10
+18.06.2004	sofa good looking	458.50
+20.10.2011	vaccum cleanear best	458.58
+16.06.2009	smartwatch most recommded	458.80
+20.08.2021	best wallet	459.70
+08.03.2006	best smartwatch	460.97
+25.07.2011	most recommded glasses	461.44
+01.08.2011	laptop cheap	462.48
+16.08.2013	most recommded glasses	462.62
+17.07.2015	best vaccum cleanear	462.82
+12.05.2004	smartwatch best	462.92
+09.10.2011	cheap smartwatch	465.96
+17.11.2008	vaccum cleanear good looking	466.62
+23.05.2003	laptop best	466.77
+20.04.2000	bed good looking	466.85
+11.08.2003	vaccum cleanear good looking	467.23
+26.12.2021	cheap sofa	468.63
+23.11.2018	cheap laptop	469.12
+19.10.2007	vaccum cleanear good looking	469.64
+04.05.2008	smartwatch cheap	469.71
+26.08.2019	best vaccum cleanear	469.86
+13.09.2015	most recommded saree	470.23
+26.08.2003	best glasses	470.50
+08.12.2015	bed good looking	470.61
+13.11.2009	most recommded bed	471.70
+15.09.2019	best sofa	472.22
+12.10.2005	best wallet	473.78
+20.11.2018	best bed	474.74
+08.12.2021	laptop good looking	475.13
+18.11.2004	bed cheap	475.22
+02.04.2012	bed cheap	475.55
+10.05.2010	best vaccum cleanear	476.78
+09.06.2012	most recommded saree	476.99
+18.03.2020	vaccum cleanear cheap	477.22
+11.03.2013	smartwatch cheap	477.52
+25.11.2015	sofa cheap	477.74
+22.11.2005	sofa best	478.20
+06.10.2017	smartwatch best	478.88
+11.07.2018	good looking glasses	479.84
+14.09.2019	most recommded bed	480.19
+03.06.2005	good looking laptop	480.28
+11.11.2013	sofa most recommded	480.68
+14.08.2015	most recommded vaccum cleanear	480.72
+16.01.2009	smartwatch most recommded	480.88
+28.05.2009	glasses best	480.97
+25.10.2018	most recommded bed	484.16
+22.03.2019	bed good looking	484.17
+08.10.2012	vaccum cleanear cheap	485.66
+03.01.2011	sofa most recommded	485.75
+05.06.2020	most recommded vaccum cleanear	487.78
+26.11.2001	bed good looking	487.84
+17.09.2016	good looking sofa	488.19
+27.02.2007	smartwatch cheap	488.28
+02.03.2005	sofa good looking	488.36
+02.02.2017	sofa best	488.37
+09.12.2012	good looking vaccum cleanear	489.17
+17.10.2011	vaccum cleanear most recommded	489.58
+04.06.2007	sofa best	489.59
+16.11.2009	best saree	489.81
+16.12.2005	vaccum cleanear most recommded	489.87
+19.08.2019	glasses most recommded	490.22
+25.12.2020	bed good looking	490.43
+19.01.2015	smartwatch good looking	490.76
+09.01.2003	sofa cheap	491.48
+22.03.2015	best vaccum cleanear	492.26
+15.01.2008	good looking laptop	492.41
+15.11.2010	saree best	492.47
+17.09.2020	best glasses	492.52
+26.11.2020	cheap wallet	492.92
+17.12.2002	bed cheap	494.53
+15.04.2012	sofa good looking	495.43
+14.02.2004	laptop good looking	495.46
+11.03.2008	saree cheap	495.51
+12.12.2015	good looking laptop	496.17
+12.12.2011	wallet good looking	496.48
+07.05.2004	good looking saree	498.55
+14.04.2001	glasses best	498.56
+17.06.2009	wallet good looking	499.15
+27.06.2016	sofa cheap	500.22
+11.12.2008	most recommded wallet	500.37
+28.09.2003	wallet most recommded	500.50
+09.12.2016	vaccum cleanear best	500.53
+12.05.2007	sofa good looking	501.65
+14.06.2020	good looking glasses	501.77
+14.02.2019	glasses most recommded	503.38
+17.04.2014	good looking bed	503.66
+05.09.2002	cheap laptop	503.76
+02.12.2003	vaccum cleanear cheap	504.40
+22.09.2011	glasses good looking	504.42
+16.08.2013	most recommded vaccum cleanear	504.57
+02.04.2015	best vaccum cleanear	504.59
+04.11.2003	best wallet	504.95
+05.07.2016	bed good looking	506.71
+25.05.2004	best smartwatch	506.80
+12.06.2001	wallet best	507.33
+02.07.2010	smartwatch good looking	507.66
+02.05.2000	sofa cheap	507.75
+18.08.2008	sofa best	507.84
+07.06.2019	sofa cheap	508.79
+27.10.2003	good looking smartwatch	510.44
+26.01.2021	good looking smartwatch	513.59
+21.08.2010	best saree	514.51
+22.04.2003	bed good looking	514.68
+07.08.2001	good looking vaccum cleanear	516.32
+21.01.2004	good looking sofa	517.94
+09.04.2017	most recommded sofa	517.99
+07.10.2006	laptop good looking	518.80
+11.05.2020	bed good looking	519.34
+16.08.2016	most recommded laptop	520.11
+26.05.2014	most recommded glasses	520.16
+27.03.2000	vaccum cleanear good looking	521.59
+16.07.2001	vaccum cleanear best	521.90
+02.09.2010	laptop good looking	522.39
+20.03.2016	glasses best	522.42
+01.11.2008	glasses cheap	522.89
+10.08.2001	vaccum cleanear best	524.23
+10.04.2004	good looking saree	525.65
+04.07.2020	vaccum cleanear good looking	525.66
+16.03.2019	best vaccum cleanear	525.76
+15.09.2021	most recommded wallet	526.22
+10.11.2003	most recommded glasses	526.22
+09.07.2014	cheap saree	526.39
+22.08.2005	most recommded bed	526.64
+08.11.2018	saree best	526.88
+08.03.2000	good looking bed	527.29
+18.08.2011	sofa best	527.97
+19.03.2011	vaccum cleanear cheap	529.56
+05.09.2006	saree best	530.73
+16.01.2001	best sofa	531.89
+15.08.2002	glasses most recommded	532.18
+05.08.2012	bed good looking	532.52
+20.08.2019	sofa most recommded	533.60
+12.03.2014	most recommded sofa	533.62
+01.11.2013	best bed	535.20
+21.02.2012	smartwatch cheap	535.52
+19.01.2017	saree best	535.95
+06.12.2007	cheap bed	537.61
+24.09.2004	glasses best	537.86
+14.09.2007	best smartwatch	539.84
+19.02.2009	smartwatch cheap	540.64
+14.01.2009	good looking bed	541.13
+06.10.2006	best glasses	541.39
+12.10.2011	most recommded bed	541.45
+05.04.2011	best saree	541.51
+10.05.2017	best saree	541.90
+17.04.2017	best wallet	543.88
+03.06.2009	best saree	544.23
+17.07.2009	smartwatch cheap	545.38
+22.03.2008	cheap wallet	545.50
+15.03.2001	best vaccum cleanear	546.21
+14.05.2014	cheap vaccum cleanear	547.80
+06.06.2021	bed good looking	547.96
+24.02.2013	sofa cheap	549.48
+06.01.2021	best smartwatch	550.61
+21.02.2009	most recommded glasses	551.31
+22.06.2012	cheap sofa	552.37
+12.04.2000	wallet cheap	552.68
+10.02.2005	sofa cheap	553.35
+05.12.2004	cheap wallet	553.54
+04.02.2001	good looking sofa	554.85
+26.05.2013	bed good looking	555.32
+25.03.2001	most recommded laptop	555.53
+26.08.2019	laptop best	556.30
+26.04.2014	best saree	556.96
+01.06.2016	laptop best	557.78
+09.01.2007	best bed	557.80
+11.01.2010	most recommded vaccum cleanear	558.17
+10.12.2006	wallet most recommded	558.17
+27.05.2016	laptop cheap	558.58
+13.12.2003	glasses cheap	558.97
+11.01.2012	good looking vaccum cleanear	559.37
+26.10.2003	cheap laptop	559.61
+22.07.2018	most recommded smartwatch	560.44
+19.03.2000	best laptop	560.58
+15.07.2008	most recommded sofa	562.52
+10.05.2014	good looking smartwatch	563.50
+25.12.2014	smartwatch cheap	563.51
+25.10.2018	good looking glasses	564.36
+21.09.2002	good looking glasses	564.78
+04.10.2021	most recommded laptop	565.17
+08.06.2017	most recommded smartwatch	565.97
+15.05.2012	saree good looking	567.63
+20.05.2019	cheap smartwatch	568.13
+23.05.2020	sofa most recommded	570.67
+20.06.2001	saree cheap	571.18
+23.06.2000	most recommded bed	571.21
+12.06.2008	best smartwatch	571.81
+03.07.2011	sofa cheap	572.33
+18.09.2001	laptop cheap	572.64
+23.06.2010	cheap saree	573.70
+15.03.2015	laptop most recommded	575.65
+06.10.2020	vaccum cleanear good looking	575.65
+13.10.2015	sofa good looking	575.97
+25.11.2020	good looking laptop	576.22
+04.05.2019	cheap wallet	576.81
+22.07.2002	smartwatch good looking	577.67
+14.05.2007	wallet most recommded	579.24
+27.01.2014	glasses cheap	579.27
+17.06.2012	most recommded laptop	579.33
+01.03.2021	saree good looking	579.60
+19.11.2020	best laptop	579.84
+08.07.2000	good looking saree	579.86
+24.10.2003	saree most recommded	580.16
+03.12.2018	cheap sofa	580.26
+07.04.2000	best bed	580.44
+24.10.2019	vaccum cleanear best	581.18
+09.10.2019	good looking smartwatch	582.63
+09.09.2006	glasses most recommded	583.50
+04.06.2001	laptop cheap	584.56
+13.01.2012	most recommded saree	585.44
+08.03.2000	cheap vaccum cleanear	585.70
+19.10.2001	most recommded wallet	586.79
+24.08.2020	wallet best	587.97
+13.01.2017	glasses good looking	588.85
+17.04.2016	wallet best	588.96
+28.09.2005	best saree	589.88
+04.11.2005	sofa most recommded	590.63
+13.05.2009	wallet cheap	590.67
+05.02.2019	best wallet	590.96
+09.09.2015	cheap wallet	591.24
+13.11.2019	cheap glasses	592.65
+06.08.2003	cheap laptop	592.75
+24.06.2004	good looking bed	592.76
+21.11.2017	sofa good looking	592.78
+09.01.2001	best glasses	592.84
+15.02.2001	bed cheap	593.24
+11.06.2014	cheap vaccum cleanear	593.31
+24.02.2012	smartwatch best	593.54
+05.10.2006	smartwatch cheap	595.37
+22.03.2006	good looking laptop	595.40
+18.02.2007	cheap glasses	595.85
+05.08.2012	smartwatch good looking	597.21
+05.04.2002	laptop best	597.22
+01.06.2014	best glasses	597.35
+27.11.2017	most recommded sofa	598.19
+18.01.2012	cheap saree	598.37
+23.03.2002	saree best	598.58
+08.12.2018	best bed	598.62
+22.04.2020	cheap vaccum cleanear	598.65
+11.09.2010	cheap bed	598.76
+27.12.2008	vaccum cleanear best	598.89
+28.09.2005	bed best	599.15
+01.12.2018	glasses most recommded	599.17
+20.05.2013	saree cheap	600.66
+14.09.2001	saree cheap	601.23
+04.03.2007	cheap wallet	601.44
+14.03.2009	bed best	601.54
+21.09.2010	good looking saree	601.97
+03.10.2002	best saree	601.98
+23.04.2000	best smartwatch	602.21
+07.08.2021	saree most recommded	603.86
+09.09.2003	most recommded laptop	604.48
+21.05.2018	bed good looking	604.92
+01.05.2009	smartwatch most recommded	606.10
+15.01.2010	most recommded bed	606.65
+01.01.2020	best smartwatch	606.71
+03.04.2012	cheap sofa	607.33
+28.06.2018	good looking vaccum cleanear	608.18
+05.09.2020	laptop most recommded	609.26
+19.04.2010	most recommded saree	610.25
+04.07.2008	cheap sofa	610.32
+16.06.2003	cheap saree	610.89
+08.05.2015	saree best	611.17
+06.06.2011	cheap glasses	611.29
+25.04.2015	vaccum cleanear good looking	612.89
+10.02.2007	wallet cheap	613.13
+25.09.2000	bed most recommded	613.29
+14.07.2005	most recommded laptop	613.40
+16.05.2001	smartwatch best	613.42
+16.05.2005	glasses most recommded	613.51
+10.05.2003	cheap vaccum cleanear	613.81
+14.01.2019	sofa most recommded	614.36
+13.08.2000	bed most recommded	614.74
+04.08.2011	cheap vaccum cleanear	615.29
+09.09.2002	saree best	616.92
+24.01.2015	best laptop	617.19
+05.04.2011	best laptop	619.44
+22.11.2019	cheap wallet	619.79
+25.12.2009	laptop cheap	620.26
+10.08.2015	good looking wallet	620.35
+18.05.2014	cheap bed	620.73
+22.05.2017	best smartwatch	621.71
+01.12.2019	cheap glasses	623.24
+06.02.2003	cheap bed	623.53
+17.11.2016	best wallet	623.76
+27.07.2020	laptop good looking	624.13
+16.10.2004	best smartwatch	625.10
+26.05.2003	bed best	625.47
+07.08.2003	laptop cheap	625.68
+11.12.2016	best bed	626.71
+20.02.2002	best smartwatch	627.33
+05.12.2005	wallet good looking	627.46
+07.12.2005	cheap wallet	627.96
+09.12.2015	best vaccum cleanear	628.17
+20.06.2021	good looking sofa	629.15
+19.03.2010	good looking bed	629.84
+17.11.2013	best sofa	629.87
+27.12.2010	best sofa	630.70
+22.06.2017	vaccum cleanear best	630.76
+08.05.2021	laptop cheap	632.12
+19.10.2001	smartwatch best	634.95
+06.06.2008	best laptop	635.63
+15.02.2004	vaccum cleanear cheap	635.98
+14.05.2020	best smartwatch	637.41
+18.07.2001	cheap saree	637.65
+20.02.2013	saree good looking	639.30
+27.03.2001	vaccum cleanear best	639.72
+17.09.2007	glasses best	641.83
+24.01.2007	good looking glasses	641.88
+27.10.2017	smartwatch most recommded	642.91
+02.07.2013	smartwatch good looking	643.57
+28.03.2007	vaccum cleanear most recommded	643.63
+22.09.2016	bed good looking	644.20
+25.03.2005	saree cheap	644.87
+21.02.2014	good looking vaccum cleanear	644.99
+26.12.2004	best sofa	645.18
+26.05.2007	cheap saree	645.36
+04.12.2009	laptop most recommded	645.82
+19.07.2021	wallet cheap	647.72
+22.05.2018	sofa cheap	649.31
+18.12.2004	saree cheap	649.95
+25.11.2017	best sofa	652.49
+08.05.2017	cheap smartwatch	654.75
+27.02.2015	smartwatch most recommded	655.26
+19.08.2014	bed most recommded	655.69
+24.05.2009	laptop best	656.10
+08.04.2019	vaccum cleanear best	656.11
+28.06.2002	glasses good looking	656.44
+13.12.2016	smartwatch cheap	656.50
+09.10.2001	cheap glasses	657.21
+27.07.2017	vaccum cleanear cheap	658.22
+19.03.2002	glasses cheap	658.25
+25.10.2008	sofa good looking	658.37
+04.05.2004	vaccum cleanear best	659.17
+05.07.2004	bed cheap	659.54
+21.07.2020	most recommded wallet	659.65
+21.11.2011	best wallet	660.11
+23.04.2017	cheap laptop	660.88
+06.08.2010	good looking smartwatch	661.72
+24.08.2013	smartwatch most recommded	662.48
+07.11.2001	most recommded wallet	662.64
+27.04.2001	cheap smartwatch	662.96
+10.02.2007	most recommded vaccum cleanear	662.97
+13.10.2008	best wallet	663.59
+07.08.2018	good looking wallet	663.65
+27.10.2013	sofa cheap	664.95
+22.10.2009	bed good looking	665.33
+28.08.2009	good looking bed	665.50
+09.05.2011	most recommded saree	665.50
+19.12.2000	cheap sofa	666.20
+11.10.2018	most recommded wallet	668.14
+05.05.2010	cheap bed	668.64
+07.03.2020	laptop most recommded	668.79
+14.12.2011	sofa cheap	669.92
+25.08.2017	sofa most recommded	671.58
+04.12.2021	best smartwatch	672.99
+13.02.2021	laptop most recommded	673.78
+09.04.2001	good looking glasses	673.90
+15.10.2008	best laptop	674.39
+05.04.2004	vaccum cleanear cheap	674.97
+07.06.2007	good looking laptop	675.65
+20.09.2018	smartwatch best	675.79
+06.10.2008	best bed	676.88
+28.07.2006	laptop cheap	677.53
+03.06.2019	smartwatch most recommded	677.92
+12.11.2000	good looking saree	678.97
+01.07.2019	vaccum cleanear cheap	679.50
+16.02.2001	most recommded laptop	679.79
+11.03.2021	bed good looking	680.15
+28.11.2016	most recommded sofa	681.58
+20.03.2004	cheap vaccum cleanear	682.22
+12.01.2006	good looking glasses	682.57
+09.08.2010	smartwatch good looking	682.67
+22.07.2019	bed most recommded	684.47
+28.11.2003	saree cheap	685.21
+06.10.2018	bed most recommded	685.45
+26.02.2000	wallet most recommded	685.70
+19.03.2000	glasses cheap	687.40
+18.06.2008	best saree	687.50
+11.04.2014	cheap smartwatch	687.83
+05.10.2004	vaccum cleanear good looking	688.15
+16.01.2015	bed cheap	688.35
+25.03.2010	saree most recommded	688.59
+13.05.2018	sofa best	689.47
+24.01.2018	cheap sofa	690.26
+26.06.2012	best laptop	690.32
+03.04.2020	laptop most recommded	692.53
+07.07.2017	best laptop	692.95
+17.01.2015	good looking laptop	693.11
+19.12.2015	sofa good looking	693.42
+05.02.2000	bed most recommded	695.34
+10.10.2013	best glasses	697.25
+16.05.2001	laptop most recommded	697.54
+22.02.2015	best saree	698.66
+13.05.2002	best bed	698.74
+04.01.2006	sofa most recommded	699.49
+15.10.2004	sofa good looking	702.17
+23.10.2009	saree cheap	702.36
+14.08.2001	wallet best	702.95
+05.06.2015	laptop cheap	703.36
+04.03.2016	good looking glasses	703.64
+18.06.2019	laptop good looking	703.76
+18.06.2019	wallet cheap	704.20
+16.12.2005	wallet best	704.76
+06.07.2007	most recommded sofa	705.58
+07.06.2015	saree most recommded	706.60
+08.07.2015	cheap wallet	706.64
+04.07.2005	bed best	706.79
+01.12.2019	bed best	707.54
+28.01.2006	cheap saree	707.80
+25.03.2018	sofa best	707.80
+11.02.2018	wallet cheap	709.31
+28.10.2020	most recommded saree	710.61
+09.01.2018	vaccum cleanear best	711.33
+01.03.2018	laptop most recommded	712.38
+11.01.2001	laptop best	713.27
+05.03.2021	best wallet	713.28
+07.04.2008	sofa best	713.71
+21.06.2007	smartwatch best	715.10
+13.05.2017	glasses most recommded	716.25
+18.04.2000	vaccum cleanear cheap	717.22
+22.02.2017	best sofa	718.91
+24.07.2004	wallet cheap	719.29
+24.10.2012	most recommded glasses	720.79
+10.11.2021	smartwatch most recommded	722.80
+27.07.2017	cheap glasses	724.19
+24.05.2016	glasses good looking	725.12
+10.10.2012	most recommded bed	725.21
+22.01.2015	vaccum cleanear most recommded	725.99
+23.05.2005	sofa good looking	726.54
+23.10.2017	most recommded bed	727.74
+27.04.2008	smartwatch most recommded	728.38
+14.09.2011	saree cheap	729.26
+18.04.2001	laptop good looking	729.80
+01.05.2000	good looking wallet	731.27
+06.05.2001	good looking smartwatch	731.33
+14.12.2006	most recommded vaccum cleanear	731.74
+21.07.2016	bed best	732.36
+16.08.2007	most recommded laptop	732.65
+21.05.2016	good looking sofa	733.19
+05.05.2004	bed good looking	734.95
+01.03.2001	saree most recommded	734.97
+07.06.2004	wallet good looking	735.51
+04.06.2010	cheap smartwatch	735.52
+28.02.2008	vaccum cleanear best	736.88
+13.10.2014	cheap smartwatch	739.10
+27.03.2018	cheap laptop	739.19
+21.07.2016	good looking laptop	739.21
+23.06.2002	vaccum cleanear best	739.41
+22.03.2006	most recommded sofa	739.48
+13.03.2012	wallet best	739.58
+13.09.2008	most recommded smartwatch	741.89
+22.05.2012	best sofa	742.24
+13.12.2021	good looking sofa	743.84
+23.11.2013	glasses cheap	744.14
+05.04.2020	wallet cheap	745.14
+11.08.2016	good looking saree	745.98
+08.11.2017	glasses best	746.73
+16.03.2009	best bed	747.88
+22.04.2000	cheap sofa	747.95
+26.06.2003	cheap wallet	748.44
+20.04.2014	good looking glasses	748.91
+14.05.2009	vaccum cleanear good looking	748.98
+28.12.2010	sofa best	748.98
+17.12.2020	wallet cheap	749.87
+15.01.2013	good looking laptop	750.38
+16.04.2021	best laptop	750.94
+07.10.2017	most recommded vaccum cleanear	752.21
+20.10.2014	saree best	753.27
+24.10.2004	bed most recommded	753.82
+15.03.2013	good looking laptop	754.71
+22.10.2008	cheap sofa	754.71
+06.03.2004	glasses good looking	755.70
+12.11.2009	glasses cheap	756.68
+10.02.2003	smartwatch best	757.32
+15.10.2000	glasses best	758.28
+04.12.2016	good looking saree	758.29
+15.06.2003	most recommded glasses	758.37
+21.06.2020	smartwatch cheap	759.39
+02.04.2018	saree most recommded	759.47
+23.10.2007	saree cheap	759.47
+20.02.2011	saree best	759.49
+11.11.2004	cheap laptop	759.50
+02.05.2006	cheap sofa	760.50
+07.03.2011	glasses most recommded	760.95
+26.01.2013	cheap smartwatch	763.30
+14.05.2013	saree most recommded	764.68
+07.07.2020	most recommded saree	764.83
+23.03.2010	smartwatch good looking	767.36
+25.09.2018	cheap glasses	768.58
+27.12.2004	glasses most recommded	770.24
+22.03.2006	good looking bed	770.28
+21.07.2019	bed best	770.37
+28.11.2005	best glasses	770.63
+07.02.2018	cheap saree	770.66
+04.04.2020	bed most recommded	771.13
+10.03.2002	saree most recommded	772.52
+15.11.2010	vaccum cleanear best	772.73
+26.10.2001	wallet best	774.66
+19.08.2006	cheap smartwatch	775.31
+01.10.2008	smartwatch cheap	775.71
+10.04.2009	laptop most recommded	776.70
+13.08.2019	saree best	777.54
+13.02.2015	cheap bed	778.31
+11.02.2014	most recommded vaccum cleanear	778.67
+11.07.2008	laptop best	781.54
+02.01.2021	smartwatch best	781.98
+13.02.2012	smartwatch best	782.33
+05.01.2007	cheap smartwatch	782.52
+18.12.2019	glasses cheap	783.34
+25.01.2020	smartwatch cheap	783.35
+06.11.2005	good looking vaccum cleanear	784.46
+24.01.2004	most recommded wallet	784.47
+15.07.2010	best vaccum cleanear	784.65
+08.11.2008	glasses best	784.74
+12.02.2011	best saree	784.92
+07.11.2014	best wallet	785.61
+04.01.2000	most recommded wallet	786.43
+20.11.2000	best bed	787.90
+22.11.2015	good looking sofa	788.42
+28.10.2020	wallet best	788.87
+24.07.2014	glasses best	789.20
+16.06.2013	wallet most recommded	789.64
+13.02.2015	most recommded vaccum cleanear	791.68
+14.02.2012	cheap wallet	791.92
+04.11.2019	sofa cheap	791.98
+07.08.2014	bed best	792.80
+14.11.2006	bed most recommded	792.98
+22.02.2010	glasses most recommded	793.56
+19.05.2013	most recommded bed	793.58
+22.09.2012	cheap bed	793.76
+26.02.2014	saree cheap	794.22
+18.05.2005	cheap glasses	794.75
+16.05.2020	saree good looking	794.80
+21.04.2014	smartwatch cheap	796.10
+14.02.2002	laptop most recommded	797.52
+24.12.2020	cheap wallet	797.92
+06.11.2020	smartwatch good looking	798.62
+23.07.2017	bed most recommded	798.85
+28.05.2014	sofa good looking	800.79
+20.02.2008	cheap smartwatch	801.33
+07.02.2017	wallet best	801.37
+18.07.2006	best smartwatch	801.44
+27.11.2006	laptop most recommded	802.41
+05.03.2004	saree most recommded	802.96
+20.01.2000	saree most recommded	803.55
+07.10.2017	sofa best	804.76
+04.11.2009	best bed	804.94
+17.06.2016	vaccum cleanear cheap	805.10
+27.08.2014	wallet good looking	805.36
+11.08.2001	bed most recommded	805.48
+11.07.2008	most recommded sofa	805.81
+26.11.2003	good looking wallet	806.20
+12.02.2018	best glasses	807.22
+10.06.2005	most recommded vaccum cleanear	807.31
+25.07.2009	wallet best	807.70
+06.05.2018	good looking glasses	809.34
+20.06.2009	bed most recommded	810.10
+16.07.2013	wallet most recommded	810.42
+06.03.2002	bed good looking	810.65
+13.12.2019	cheap vaccum cleanear	810.94
+06.01.2021	best glasses	811.93
+09.08.2000	smartwatch cheap	813.37
+25.05.2005	bed most recommded	814.31
+25.10.2018	vaccum cleanear most recommded	814.47
+21.01.2005	saree cheap	818.41
+15.03.2006	vaccum cleanear cheap	818.64
+21.12.2001	most recommded wallet	818.87
+03.11.2010	cheap saree	818.91
+26.06.2004	saree cheap	819.37
+13.04.2017	laptop cheap	819.88
+21.06.2020	bed good looking	820.30
+09.12.2007	glasses best	821.47
+15.03.2011	smartwatch good looking	821.47
+24.05.2014	vaccum cleanear most recommded	822.13
+03.02.2000	good looking laptop	822.89
+11.02.2012	cheap vaccum cleanear	823.69
+06.12.2002	cheap glasses	823.87
+18.05.2003	smartwatch most recommded	824.65
+03.05.2012	cheap bed	826.12
+05.01.2019	good looking vaccum cleanear	826.50
+05.07.2014	cheap vaccum cleanear	826.62
+23.12.2001	bed best	826.90
+02.11.2009	most recommded wallet	826.98
+16.05.2014	vaccum cleanear cheap	827.46
+06.03.2003	sofa best	827.50
+18.11.2015	sofa most recommded	828.39
+13.01.2017	good looking smartwatch	828.76
+27.11.2010	saree good looking	829.47
+05.07.2007	sofa cheap	830.53
+21.11.2009	cheap wallet	830.57
+21.08.2002	smartwatch most recommded	830.77
+26.01.2000	cheap vaccum cleanear	831.84
+07.04.2010	glasses cheap	832.13
+25.11.2009	smartwatch most recommded	835.30
+22.05.2009	best vaccum cleanear	836.30
+15.01.2008	wallet best	837.57
+21.06.2005	laptop good looking	837.63
+22.09.2008	most recommded sofa	837.97
+05.05.2019	laptop best	838.22
+24.12.2009	saree best	838.37
+27.06.2013	most recommded saree	838.86
+10.10.2017	wallet best	839.30
+11.06.2002	laptop best	839.59
+20.05.2000	most recommded smartwatch	839.88
+16.08.2009	cheap laptop	839.92
+06.08.2004	best bed	840.28
+13.02.2000	laptop good looking	840.73
+15.07.2015	cheap vaccum cleanear	840.89
+04.03.2012	glasses good looking	841.67
+21.03.2010	most recommded wallet	842.18
+28.12.2015	best bed	842.37
+23.03.2001	most recommded glasses	842.71
+28.05.2011	saree cheap	843.61
+07.07.2012	most recommded glasses	843.71
+14.10.2017	saree most recommded	843.95
+05.11.2005	bed good looking	844.66
+08.04.2003	glasses cheap	845.66
+14.06.2007	laptop good looking	847.61
+10.06.2016	wallet best	847.71
+09.07.2013	good looking saree	848.11
+25.04.2014	smartwatch best	848.57
+26.01.2003	wallet most recommded	848.87
+03.09.2015	saree most recommded	849.27
+12.09.2017	wallet cheap	851.82
+13.04.2008	most recommded bed	852.59
+18.12.2021	good looking sofa	853.28
+09.10.2018	wallet cheap	854.37
+10.11.2002	smartwatch cheap	855.42
+03.12.2011	good looking glasses	855.63
+23.06.2010	best saree	856.14
+21.07.2008	good looking wallet	858.27
+28.07.2020	vaccum cleanear most recommded	858.27
+16.11.2020	saree good looking	858.44
+11.11.2000	best wallet	859.70
+24.02.2000	most recommded wallet	859.75
+17.09.2004	cheap bed	861.81
+23.01.2005	vaccum cleanear cheap	861.89
+03.02.2003	most recommded smartwatch	862.70
+08.10.2021	smartwatch most recommded	862.93
+12.03.2015	best sofa	863.40
+09.02.2008	good looking glasses	863.76
+15.03.2007	good looking bed	863.94
+27.11.2016	glasses most recommded	864.21
+05.04.2017	most recommded saree	864.82
+19.02.2020	cheap sofa	864.84
+24.12.2018	glasses cheap	865.84
+23.01.2001	sofa good looking	866.12
+18.08.2017	cheap wallet	866.98
+04.06.2003	bed most recommded	867.20
+04.01.2012	wallet best	871.72
+05.06.2003	best glasses	872.91
+12.03.2008	cheap sofa	872.91
+05.04.2016	wallet best	873.28
+18.06.2010	cheap bed	873.40
+15.05.2019	cheap smartwatch	873.84
+08.02.2005	vaccum cleanear best	873.91
+23.12.2000	good looking smartwatch	875.67
+28.12.2018	laptop cheap	875.73
+09.09.2010	most recommded laptop	875.73
+05.03.2021	laptop most recommded	876.68
+27.02.2016	wallet most recommded	877.31
+16.02.2003	saree good looking	879.24
+27.01.2021	glasses most recommded	880.24
+03.04.2012	best sofa	880.30
+15.04.2008	best bed	880.73
+24.03.2001	most recommded wallet	880.84
+11.11.2009	saree cheap	880.91
+14.08.2018	good looking bed	881.20
+04.10.2002	bed cheap	881.25
+24.09.2018	wallet good looking	881.51
+16.08.2015	most recommded bed	881.96
+20.04.2014	saree good looking	882.54
+06.01.2018	smartwatch most recommded	882.76
+10.11.2011	cheap sofa	882.99
+12.04.2005	most recommded laptop	883.38
+13.07.2005	laptop most recommded	883.89
+13.08.2012	vaccum cleanear best	885.33
+15.04.2020	good looking bed	886.32
+17.06.2008	wallet best	886.37
+08.08.2002	cheap vaccum cleanear	887.29
+13.09.2017	most recommded glasses	887.33
+13.03.2018	wallet most recommded	887.92
+28.09.2010	laptop cheap	889.11
+09.06.2014	most recommded glasses	889.13
+10.09.2014	most recommded glasses	889.69
+11.08.2011	glasses best	889.77
+22.09.2007	sofa good looking	889.84
+12.04.2000	laptop good looking	889.99
+04.03.2010	smartwatch most recommded	890.10
+24.06.2012	laptop most recommded	890.12
+20.01.2007	wallet most recommded	890.59
+21.12.2002	best smartwatch	892.17
+02.02.2010	sofa cheap	892.94
+16.11.2007	cheap glasses	893.58
+14.06.2008	sofa cheap	893.94
+13.09.2013	cheap bed	895.17
+01.04.2021	most recommded vaccum cleanear	896.16
+03.01.2021	wallet best	896.58
+01.09.2014	glasses good looking	897.57
+14.04.2014	sofa best	897.79
+26.10.2005	good looking bed	898.26
+11.06.2020	glasses good looking	898.59
+04.10.2007	most recommded vaccum cleanear	899.26
+21.06.2007	smartwatch good looking	901.31
+16.03.2018	cheap glasses	901.45
+28.12.2009	good looking sofa	901.76
+15.09.2019	best sofa	902.27
+24.01.2016	best saree	902.89
+09.01.2000	cheap saree	902.98
+01.08.2014	most recommded laptop	904.23
+13.07.2009	sofa cheap	904.24
+12.01.2019	good looking sofa	905.62
+09.11.2012	wallet good looking	905.78
+06.05.2017	saree good looking	906.46
+10.10.2008	smartwatch good looking	907.25
+05.12.2016	most recommded sofa	907.57
+12.12.2008	cheap glasses	908.96
+02.06.2007	best vaccum cleanear	909.87
+14.09.2020	laptop best	911.77
+26.06.2016	sofa good looking	912.12
+21.05.2001	good looking vaccum cleanear	912.22
+09.10.2020	saree cheap	913.19
+06.01.2005	laptop cheap	913.46
+05.07.2007	saree best	913.57
+18.03.2016	saree good looking	913.67
+13.04.2016	vaccum cleanear cheap	913.85
+26.04.2019	wallet cheap	914.71
+21.06.2018	best bed	915.11
+27.02.2016	vaccum cleanear best	915.17
+02.10.2010	glasses cheap	915.30
+22.10.2011	laptop best	915.38
+12.08.2014	most recommded wallet	915.56
+23.07.2008	sofa best	916.29
+01.11.2012	most recommded smartwatch	916.31
+28.11.2015	cheap bed	916.64
+12.07.2011	most recommded laptop	917.52
+21.11.2009	smartwatch cheap	917.69
+11.08.2000	cheap vaccum cleanear	917.70
+02.07.2014	most recommded sofa	918.86
+28.07.2003	saree good looking	919.33
+20.06.2019	good looking sofa	919.60
+01.07.2004	saree good looking	919.64
+09.02.2010	vaccum cleanear cheap	920.13
+14.07.2000	good looking saree	920.47
+07.05.2008	most recommded saree	920.75
+14.01.2008	cheap saree	921.83
+13.08.2009	cheap smartwatch	922.13
+08.06.2008	cheap vaccum cleanear	922.47
+18.05.2000	most recommded laptop	922.51
+03.01.2019	saree good looking	922.97
+14.10.2003	sofa cheap	923.23
+24.03.2005	most recommded saree	923.51
+16.07.2000	saree good looking	923.57
+15.12.2018	good looking saree	923.67
+28.08.2014	wallet cheap	924.11
+17.06.2012	glasses cheap	925.58
+18.01.2014	sofa most recommded	926.31
+26.01.2018	smartwatch cheap	926.82
+02.01.2004	best saree	928.24
+16.06.2009	smartwatch best	928.79
+02.07.2018	bed most recommded	929.94
+15.04.2007	bed cheap	930.84
+15.10.2020	most recommded vaccum cleanear	932.53
+03.06.2008	most recommded wallet	932.81
+09.12.2013	sofa good looking	933.77
+04.04.2010	wallet cheap	933.99
+10.11.2003	good looking bed	934.23
+23.07.2002	wallet good looking	935.16
+15.11.2019	vaccum cleanear cheap	935.87
+23.01.2018	bed good looking	935.88
+15.07.2017	vaccum cleanear best	936.13
+25.05.2008	best bed	936.36
+14.07.2002	wallet most recommded	936.37
+12.06.2004	good looking saree	936.60
+22.06.2016	cheap wallet	937.80
+16.10.2007	smartwatch good looking	940.14
+20.02.2002	smartwatch good looking	940.64
+03.02.2020	wallet good looking	942.39
+13.10.2003	cheap vaccum cleanear	942.49
+03.07.2016	bed good looking	943.85
+02.02.2018	best wallet	944.44
+02.07.2010	smartwatch best	945.68
+10.03.2004	good looking saree	947.88
+04.02.2008	bed cheap	948.29
+04.10.2001	wallet cheap	950.85
+24.06.2018	good looking bed	953.51
+12.05.2013	good looking laptop	953.71
+16.10.2012	cheap saree	954.36
+10.09.2018	cheap laptop	955.47
+14.11.2004	cheap bed	955.75
+26.10.2004	cheap laptop	956.67
+15.01.2008	best saree	957.54
+14.10.2007	laptop most recommded	957.74
+28.05.2017	wallet cheap	957.89
+02.06.2017	vaccum cleanear most recommded	958.27
+23.10.2004	best glasses	958.35
+27.07.2011	glasses best	959.15
+13.12.2011	glasses most recommded	959.86
+10.09.2009	most recommded smartwatch	959.87
+16.03.2000	glasses best	962.19
+20.08.2021	bed most recommded	962.32
+10.06.2016	most recommded sofa	962.35
+25.10.2005	sofa cheap	963.58
+12.09.2007	most recommded wallet	963.61
+02.12.2000	glasses best	963.65
+22.11.2017	bed best	964.53
+25.06.2007	cheap smartwatch	965.44
+15.07.2003	cheap laptop	965.58
+13.06.2012	sofa best	965.93
+22.04.2012	best bed	966.36
+11.05.2008	vaccum cleanear good looking	967.26
+06.07.2015	cheap saree	967.30
+08.10.2014	most recommded laptop	967.81
+01.06.2016	sofa cheap	968.75
+10.11.2019	vaccum cleanear best	969.92
+10.12.2009	saree most recommded	970.33
+08.07.2013	vaccum cleanear cheap	970.71
+17.01.2016	vaccum cleanear good looking	970.76
+21.03.2009	sofa most recommded	970.98
+15.05.2016	vaccum cleanear cheap	970.98
+08.10.2010	good looking saree	972.44
+05.12.2017	best laptop	973.81
+07.06.2017	best laptop	974.67
+03.03.2014	sofa good looking	975.15
+13.05.2015	best saree	977.35
+10.09.2004	most recommded laptop	977.74
+09.04.2013	good looking laptop	978.50
+20.01.2006	wallet cheap	978.54
+18.09.2003	vaccum cleanear good looking	979.42
+28.04.2000	good looking smartwatch	979.60
+27.10.2002	sofa good looking	981.37
+05.07.2004	glasses most recommded	981.41
+19.03.2009	good looking bed	984.87
+28.05.2021	bed most recommded	985.46
+08.09.2005	vaccum cleanear cheap	986.32
+10.12.2021	most recommded wallet	986.42
+16.02.2020	vaccum cleanear cheap	986.59
+20.12.2015	good looking wallet	986.74
+01.05.2014	most recommded vaccum cleanear	986.78
+15.09.2005	bed most recommded	987.28
+22.11.2001	wallet cheap	987.72
+05.02.2016	cheap vaccum cleanear	988.16
+13.11.2004	vaccum cleanear most recommded	988.70
+28.02.2016	vaccum cleanear most recommded	989.20
+10.03.2019	saree good looking	990.15
+13.10.2018	good looking bed	990.28
+08.03.2013	best saree	990.32
+10.11.2006	vaccum cleanear cheap	990.90
+04.10.2010	most recommded glasses	992.49
+02.12.2003	smartwatch best	992.71
+04.03.2014	most recommded glasses	993.10
+14.05.2021	bed best	994.34
+19.06.2013	best saree	994.43
+17.08.2011	good looking laptop	994.60
+23.04.2013	most recommded sofa	994.62
+05.06.2013	best glasses	994.76
+08.07.2014	wallet good looking	994.89
+03.06.2009	best saree	995.68
+11.01.2003	sofa most recommded	996.34
+09.11.2018	most recommded saree	996.98
+15.02.2003	most recommded vaccum cleanear	998.66
+03.09.2007	vaccum cleanear good looking	998.72
+16.11.2004	best saree	998.97
+mmmmmm
