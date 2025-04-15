@@ -1,4 +1,3 @@
-// Manish Kumar Garg 21CS60R43
 // This file contains the functionality of the Server side C Program for Socket programming which handle multiple clients.
 #include <stdio.h>
 #include <string.h>
